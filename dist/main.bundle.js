@@ -1,1 +1,1 @@
-(()=>{const e=document.createElement("h1");e.textContent="Interesting",document.querySelector("#root").append(e)})();
+(()=>{var e=new function e(){var n,t;!function(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}(this,e),t="Violin Charades",(n="name")in this?Object.defineProperty(this,n,{value:t,enumerable:!0,configurable:!0,writable:!0}):this.name=t},n=document.createElement("p");n.textContent="I like ".concat(e.name);var t=document.createElement("h1");t.textContent="Interesting",document.querySelector("#root").append(t,n)})();
