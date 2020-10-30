@@ -1,3 +1,5 @@
+import cat from '../img/bengali-cat.jpg'
+
 class Game {
     name = 'Violin Charades'
 }
