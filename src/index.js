@@ -1,4 +1,5 @@
 import cat from '../img/bengali-cat.jpg'
+import {  } from "./styles/main.scss";
 
 class Game {
     name = 'Violin Charades'
